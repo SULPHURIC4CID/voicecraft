@@ -21,6 +21,7 @@ import PreLogin from "../Components/PreLogin";
 
 const Login = () => {
   const ivrContext = useContext(IVRContext);
+  console.log("testing");
 
   let renderLogin = () => {
     if (ivrContext.loginParameters.loginStatus) {
