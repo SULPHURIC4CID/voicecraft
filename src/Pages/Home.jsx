@@ -13,7 +13,7 @@ import React from "react";
 const Home = () => {
   return (
     <div className="bg-blue-200 m-20 p-10 text-4xl text-black text-center flex flex-col jutify-center items-center">
-      Welcome to the Home Page.
+      Welcome to the Home Page123
     </div>
   );
 };
